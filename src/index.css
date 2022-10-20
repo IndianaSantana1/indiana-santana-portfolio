@@ -8,6 +8,9 @@
   }
 }
 
+.main {
+  background-color: #ddd2c5;
+}
 .about-header {
   line-height: 1.2 !important;
 }
@@ -23,4 +26,12 @@
   padding-left: 5px;
   color: #1a1b1f;
   padding-bottom: 2rem;
+}
+
+.project-header {
+  color: #ddd2c5;
+}
+
+.skill-icon {
+  color: black;
 }

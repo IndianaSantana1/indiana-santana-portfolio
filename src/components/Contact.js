@@ -41,17 +41,17 @@ export default function Contact() {
           />
           <div className="bg-white relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-3/4  px-6 mt-4 lg:mt-0">
-              <h2 className="title-font font-semibold text-black tracking-widest text-xs">
+              <h2 className="title-font font-extrabold text-black tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
-                santana.indiana1@email.com
+              <a className="text-blue-500 leading-relaxed">
+                santana.indiana1@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-black tracking-widest text-xs mt-4">
+              <h2 className="title-font font-extrabold text-black tracking-widest text-xs mt-4">
                 LINKEDIN
               </h2>
               <a
-                className="text-indigo-400 leading-relaxed"
+                className="text-blue-500 leading-relaxed"
                 href="https://www.linkedin.com/in/indianasantana/"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -81,7 +81,7 @@ export default function Contact() {
               type="text"
               id="name"
               name="name"
-              className="w-full bg-white rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+              className="w-full bg-white rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-black py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               onChange={(e) => setName(e.target.value)}
             />
           </div>
@@ -93,7 +93,7 @@ export default function Contact() {
               type="email"
               id="email"
               name="email"
-              className="w-full bg-white rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+              className="w-full bg-white rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-black py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
@@ -104,13 +104,13 @@ export default function Contact() {
             <textarea
               id="message"
               name="message"
-              className="w-full bg-white rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+              className="w-full bg-white rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-black py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
               onChange={(e) => setMessage(e.target.value)}
             />
           </div>
           <button
             type="submit"
-            className="text-white font-bold bg-black border-2 py-2 px-6 focus:outline-none hover:text-yellow-200 hover:bg-green-700 rounded text-lg"
+            className="text-black font-bold border-2 border-black py-2 px-6 focus:outline-none hover:text-white hover:bg-black rounded text-lg"
           >
             Submit
           </button>
