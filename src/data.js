@@ -1,35 +1,51 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Statement of Work (SoW)",
+    subtitle: "Plant Pals",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./SoW.gif",
+    link: "https://docs.google.com/document/d/173dRALBeunzB8t5oqc7qNtaoF_PwNh-5jbH208p4Kho/edit#",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Gantt Chart",
+    subtitle: "Plant Pals",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./gantt-chart.PNG",
+    link: "https://docs.google.com/spreadsheets/d/1OeClAVpgEfxYI5YanwV6CCrrSVJFez1fD-hUJjqoUYM/edit#gid=63951258https://docs.google.com/spreadsheets/d/1OeClAVpgEfxYI5YanwV6CCrrSVJFez1fD-hUJjqoUYM/edit#gid=63951258",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Project Budget",
+    subtitle: "Plant Pals",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "./budget.PNG",
+    link: "https://docs.google.com/spreadsheets/d/1zO3nFfWm9AKRi-9sS76eUGRvScw03NweUgPPkJN0_3A/edit#gid=1347454415",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "RACI Chart",
+    subtitle: "Plant Pals",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "./raci-chart.PNG",
+    link: "https://docs.google.com/spreadsheets/d/1big-STmoE8SzfliqsGh6t8IV639lricl6E7ZJBDKo4c/edit#gid=1939838837",
+  },
+  {
+    title: "Workbreak Down Structur (WBS)",
+    subtitle: "Plant Pals",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./WBS.PNG",
+    link: "https://docs.google.com/spreadsheets/d/1NXnjpc8-9b2XHru1KWqQ8kvFxv-HvyQIwZdwCV51KXE/edit#gid=185434937https://docs.google.com/spreadsheets/d/1NXnjpc8-9b2XHru1KWqQ8kvFxv-HvyQIwZdwCV51KXE/edit#gid=185434937",
+  },
+  {
+    title: "Stakeholder Analysis",
+    subtitle: "Plant Pals",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./stakeholder.gif",
+    link: "https://docs.google.com/presentation/d/1LKpW69taaGYEAhlY_25R-UR5CsNyl_teCILckHa1jKc/edit#slide=id.gd234627cd3_0_191",
   },
 ];
 
@@ -51,10 +67,14 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Google Project Management: Professional Certificate (In Progress)",
+  "Microsoft Office ",
+  "G Suite",
+  "Project Management Software (Jira, Asana)",
+  "Agile methodologies",
+  "HTML",
+  "CSS",
+  "Design thinking",
+  "Skill development",
+  "Project lifecycle management",
 ];

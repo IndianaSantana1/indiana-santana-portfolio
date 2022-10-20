@@ -11,3 +11,16 @@
 .about-header {
   line-height: 1.2 !important;
 }
+
+.name-header {
+  font-size: 1rem;
+  padding-bottom: 0.5rem;
+  font-weight: 600;
+  padding-left: 5px;
+}
+.position-header {
+  font-size: 0.9rem;
+  padding-left: 5px;
+  color: #1a1b1f;
+  padding-bottom: 2rem;
+}
