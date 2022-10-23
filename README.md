@@ -9,7 +9,7 @@ Visit at: [www.indianasantana.com](https://www.indianasantana.com)
 
 ## Built With
 
-- Reacts
+- React
 - Tailwind
 
 ## Site Components:
