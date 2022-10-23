@@ -28,6 +28,14 @@
   padding-bottom: 2rem;
 }
 
+.project-container {
+  height: 21rem;
+}
+
+.project-img {
+  height: 20.75rem;
+}
+
 .project-header {
   color: #ddd2c5;
 }
