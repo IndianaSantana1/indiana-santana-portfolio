@@ -28,7 +28,7 @@ export const VirtualVerdeProjects = [
     description:
       "Planned the Sprint by deciding which items from the Product Backlog to prioritize and address in the first Virtual Verde Sprint.",
     image: "./VirtualVerde-SpringBacklog.gif",
-    link: "https://docs.google.com/document/d/1mMNbogLMvV1L29FM6KwW-gif-u2s2YopQW6KvO7su5k/edit?usp=sharing&resourcekey=0-f4_lHMd3zBByGMINOCbkrw",
+    link: "https://docs.google.com/spreadsheets/d/1Gqjf_Ujrsng6T14gfHGCrNbvoxiJkEpcyW0YVk53pxg/edit#gid=110839419",
   },
 ];
 
