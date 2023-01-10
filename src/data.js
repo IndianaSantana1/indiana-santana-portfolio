@@ -1,15 +1,13 @@
 export const PlantPalProjects = [
   {
-    title: "Project Plan",
-    subtitle: "Plant Pals: Project Plan",
+    title: "Plant Pals: Project Plan",
     description:
       "Compiled and organized project artifacts in a project plan to streamline team communications, plan for future projects, and provide visibility, continuity, and accountability.",
     image: "./PlantPals-ProjectPlan.gif",
     link: "https://docs.google.com/spreadsheets/d/1cBL3WsTGCzLNDZ6j1MRrCO1vCnrBXxhBRc4hTzKj3qo/edit?usp=sharing",
   },
   {
-    title: "Project Closeout Report",
-    subtitle: "Plant Pals: Project Closeout Report",
+    title: "Plant Pals: Project Closeout Report",
     description:
       "Documented key accomplishments, open and ongoing items, lessons learned, next steps, and task and milestone duration in a project closeout report for future project managers to use as a resource.",
     image: "./PlantPals-CloseoutReport.gif",
@@ -19,16 +17,14 @@ export const PlantPalProjects = [
 
 export const VirtualVerdeProjects = [
   {
-    title: "Product Backlog",
-    subtitle: "Virtual Verde: Product Backlog",
+    title: "Virtual Verde: Product Backlog",
     description:
       "Developed a product backlog by writing user stories and creating acceptance criteria for each story based on the customer needs of Office Green.",
     image: "./VirtualVerde-ProductBacklog.gif",
     link: "https://docs.google.com/spreadsheets/d/1btvvyKtPC2aBJkSma0cP61-3VjYtpTOSdlRFXMypsis/edit?usp=sharing",
   },
   {
-    title: "Sprint Backlog",
-    subtitle: "Virtual Verde: Sprint Backlog",
+    title: "Virtual Verde: Sprint Backlog",
     description:
       "Planned the Sprint by deciding which items from the Product Backlog to prioritize and address in the first Virtual Verde Sprint.",
     image: "./VirtualVerde-SpringBacklog.gif",
@@ -38,16 +34,14 @@ export const VirtualVerdeProjects = [
 
 export const SauceAndSpoonProjects = [
   {
-    title: "Project Charter",
-    subtitle: "Sauce and Verde: Project Charter",
+    title: "Sauce and Verde: Project Charter",
     description:
       "Created a project charter to clearly define the project and outline the necessary details for the project to reach its goals. This aligns stakeholders and maps out the team’s tasks and implementation of the plan.",
     image: "./S&S-ProjectCharter.gif",
     link: "https://docs.google.com/document/d/1pKTWtLnm4HJn-z9CMveNatM48KUrOz8IQqL3I-4MIVY/edit?usp=sharing&resourcekey=0-JfZJ8REztPrp7HkE89t3Dg",
   },
   {
-    title: "Impact Report",
-    subtitle: "Sauce and Verde: Impact Report",
+    title: "Sauce and Verde: Impact Report",
     description:
       "The purpose of this impact report is to demonstrate the value that has been added to the Sauce & Spoon project. The report includes an executive summary detailing key accomplishments, lessons learned, and next steps.",
     image: "./S&S-ImpactReport.gif",
@@ -57,6 +51,7 @@ export const SauceAndSpoonProjects = [
 
 export const skills = [
   "Google Project Management: Professional Certificate",
+  "Work Management Software (Jira, Asana)",
   "Agile Project Management",
   "Budgeting and Procurement",
   "Project Scoping and Planning",
@@ -65,7 +60,6 @@ export const skills = [
   "Scrum",
   "Risk Management",
   "Process Improvement",
-  "Work Management Software (Jira, Asana)",
   "HTML",
   "CSS",
   "Microsoft Office 365",
