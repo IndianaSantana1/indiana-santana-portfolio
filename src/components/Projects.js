@@ -9,13 +9,13 @@ import {
 export default function Projects() {
   return (
     <section id="projects" className="text-black-800 body-font">
-      <div className="container px-5 py-10 mx-auto text-center lg:px-40">
+      <div className="px-5 py-10 mx-auto text-center lg:px-20">
         <div className="flex flex-col w-full mb-5">
           <PuzzleIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-5xl text-4xl font-medium title-font mb-4 text-black">
             Projects
           </h1>
-          <p className="text-xl leading-relaxed xl:w-4/5 lg:w-1/2 mx-auto mb-4">
+          <p className="text-xl leading-relaxed xl:w-4/5 mx-auto mb-4">
             Visit my{" "}
             <a
               className="font-bold underline"
@@ -44,7 +44,7 @@ export default function Projects() {
               <a
                 href={project.link}
                 key={project.image}
-                className="sm:w-1/2 w-100 p-4"
+                className="sm:w-1/2 w-100 p-4 project-item"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -55,10 +55,7 @@ export default function Projects() {
                     src={project.image}
                   />
                   <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-black opacity-0 hover:opacity-100">
-                    <h2 className="tracking-widest text-sm title-font font-medium project-header">
-                      {project.subtitle}
-                    </h2>
-                    <h1 className="title-font text-lg font-medium text-white mb-3">
+                    <h1 className="title-font text-lg font-medium mb-3 project-header">
                       {project.title}
                     </h1>
                     <p className="leading-relaxed text-white">
@@ -87,7 +84,7 @@ export default function Projects() {
               <a
                 href={project.link}
                 key={project.image}
-                className="sm:w-1/2 w-100 p-4"
+                className="sm:w-1/2 w-100 p-4 project-item"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -98,10 +95,7 @@ export default function Projects() {
                     src={project.image}
                   />
                   <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-black opacity-0 hover:opacity-100">
-                    <h2 className="tracking-widest text-sm title-font font-medium project-header">
-                      {project.subtitle}
-                    </h2>
-                    <h1 className="title-font text-lg font-medium text-white mb-3">
+                    <h1 className="title-font text-lg font-medium mb-3 project-header">
                       {project.title}
                     </h1>
                     <p className="leading-relaxed text-white">
@@ -130,7 +124,7 @@ export default function Projects() {
               <a
                 href={project.link}
                 key={project.image}
-                className="sm:w-1/2 w-100 p-4"
+                className="sm:w-1/2 w-100 p-4 project-item"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -141,10 +135,7 @@ export default function Projects() {
                     src={project.image}
                   />
                   <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-black opacity-0 hover:opacity-100">
-                    <h2 className="tracking-widest text-sm title-font font-medium project-header">
-                      {project.subtitle}
-                    </h2>
-                    <h1 className="title-font text-lg font-medium text-white mb-3">
+                    <h1 className="title-font text-lg font-medium mb-3 project-header">
                       {project.title}
                     </h1>
                     <p className="leading-relaxed text-white">
