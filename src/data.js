@@ -1,80 +1,73 @@
-export const projects = [
+export const PlantPalProjects = [
   {
-    title: "Statement of Work (SoW)",
-    subtitle: "Plant Pals",
+    title: "Project Plan",
+    subtitle: "Plant Pals: Project Plan",
     description:
-      "The goal of this Statement of Work (SoW) is to lay out the products and services a vendor or contractor will provide for Office Green’s Plant Pals Operations project.",
-    image: "./SoW.gif",
-    link: "https://docs.google.com/document/d/173dRALBeunzB8t5oqc7qNtaoF_PwNh-5jbH208p4Kho/edit#",
+      "Compiled and organized project artifacts in a project plan to streamline team communications, plan for future projects, and provide visibility, continuity, and accountability.",
+    image: "./PlantPals-ProjectPlan.gif",
+    link: "https://docs.google.com/spreadsheets/d/1cBL3WsTGCzLNDZ6j1MRrCO1vCnrBXxhBRc4hTzKj3qo/edit?usp=sharing",
   },
   {
-    title: "Gantt Chart",
-    subtitle: "Plant Pals",
+    title: "Project Closeout Report",
+    subtitle: "Plant Pals: Project Closeout Report",
     description:
-      "Estimated a project plan by creating a Gantt chart to visually map out the project schedule and feature the start and end dates of each task.",
-    image: "./gantt-chart.PNG",
-    link: "https://docs.google.com/spreadsheets/d/1OeClAVpgEfxYI5YanwV6CCrrSVJFez1fD-hUJjqoUYM/edit#gid=63951258https://docs.google.com/spreadsheets/d/1OeClAVpgEfxYI5YanwV6CCrrSVJFez1fD-hUJjqoUYM/edit#gid=63951258",
-  },
-  {
-    title: "Project Budget",
-    subtitle: "Plant Pals",
-    description:
-      "Created a project budget to estimate the total cost for developing and implementing an Operations and Training Plan for the Plant Pals service.",
-    image: "./budget.PNG",
-    link: "https://docs.google.com/spreadsheets/d/1zO3nFfWm9AKRi-9sS76eUGRvScw03NweUgPPkJN0_3A/edit#gid=1347454415",
-  },
-  {
-    title: "RACI Chart",
-    subtitle: "Plant Pals",
-    description:
-      "Developed a RACI chart to define clear roles and responsibilities to ensure work gets done efficiently by providing direction for each team member.",
-    image: "./raci-chart.PNG",
-    link: "https://docs.google.com/spreadsheets/d/1big-STmoE8SzfliqsGh6t8IV639lricl6E7ZJBDKo4c/edit#gid=1939838837",
-  },
-  {
-    title: "Workbreak Down Structur (WBS)",
-    subtitle: "Plant Pals",
-    description:
-      "Created a Work Breakdown Structure (WBS) to break down milestones into manageable tasks in the order they need to be completed.",
-    image: "./WBS.PNG",
-    link: "https://docs.google.com/spreadsheets/d/1NXnjpc8-9b2XHru1KWqQ8kvFxv-HvyQIwZdwCV51KXE/edit#gid=185434937https://docs.google.com/spreadsheets/d/1NXnjpc8-9b2XHru1KWqQ8kvFxv-HvyQIwZdwCV51KXE/edit#gid=185434937",
-  },
-  {
-    title: "Stakeholder Analysis",
-    subtitle: "Plant Pals",
-    description:
-      "Completed a stakeholder analysis and power grid to determine each stakeholder’s influence in the Plant Pals project to build partnerships and avoid potential risks down the road.",
-    image: "./stakeholder.gif",
-    link: "https://docs.google.com/presentation/d/1LKpW69taaGYEAhlY_25R-UR5CsNyl_teCILckHa1jKc/edit#slide=id.gd234627cd3_0_191",
+      "Documented key accomplishments, open and ongoing items, lessons learned, next steps, and task and milestone duration in a project closeout report for future project managers to use as a resource.",
+    image: "./PlantPals-CloseoutReport.gif",
+    link: "https://docs.google.com/document/d/1mMNbogLMvV1L29FM6KwW-gif-u2s2YopQW6KvO7su5k/edit?usp=sharing&resourcekey=0-f4_lHMd3zBByGMINOCbkrw",
   },
 ];
 
-export const testimonials = [
+export const VirtualVerdeProjects = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    title: "Product Backlog",
+    subtitle: "Virtual Verde: Product Backlog",
+    description:
+      "Developed a product backlog by writing user stories and creating acceptance criteria for each story based on the customer needs of Office Green.",
+    image: "./VirtualVerde-ProductBacklog.gif",
+    link: "https://docs.google.com/spreadsheets/d/1btvvyKtPC2aBJkSma0cP61-3VjYtpTOSdlRFXMypsis/edit?usp=sharing",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    title: "Sprint Backlog",
+    subtitle: "Virtual Verde: Sprint Backlog",
+    description:
+      "Planned the Sprint by deciding which items from the Product Backlog to prioritize and address in the first Virtual Verde Sprint.",
+    image: "./VirtualVerde-SpringBacklog.gif",
+    link: "https://docs.google.com/document/d/1mMNbogLMvV1L29FM6KwW-gif-u2s2YopQW6KvO7su5k/edit?usp=sharing&resourcekey=0-f4_lHMd3zBByGMINOCbkrw",
+  },
+];
+
+export const SauceAndSpoonProjects = [
+  {
+    title: "Project Charter",
+    subtitle: "Sauce and Verde: Project Charter",
+    description:
+      "Created a project charter to clearly define the project and outline the necessary details for the project to reach its goals. This aligns stakeholders and maps out the team’s tasks and implementation of the plan.",
+    image: "./S&S-ProjectCharter.gif",
+    link: "https://docs.google.com/document/d/1pKTWtLnm4HJn-z9CMveNatM48KUrOz8IQqL3I-4MIVY/edit?usp=sharing&resourcekey=0-JfZJ8REztPrp7HkE89t3Dg",
+  },
+  {
+    title: "Impact Report",
+    subtitle: "Sauce and Verde: Impact Report",
+    description:
+      "The purpose of this impact report is to demonstrate the value that has been added to the Sauce & Spoon project. The report includes an executive summary detailing key accomplishments, lessons learned, and next steps.",
+    image: "./S&S-ImpactReport.gif",
+    link: "https://docs.google.com/presentation/d/1dlzAnSXmVkyjKyszAsKTy9az7DKRyn2pviytw0YjAnw/edit?usp=sharing&resourcekey=0-byEwsH5hfK9fniPD65oxUA",
   },
 ];
 
 export const skills = [
-  "Google Project Management: Professional Certificate (In Progress)",
-  "Microsoft Office",
-  "G Suite",
-  "Project Management Software (Jira, Asana)",
-  "Agile Methodologies",
+  "Google Project Management: Professional Certificate",
+  "Agile Project Management",
+  "Budgeting and Procurement",
+  "Project Scoping and Planning",
+  "Stakeholder Management",
+  "Project Management",
+  "Scrum",
+  "Risk Management",
+  "Process Improvement",
+  "Work Management Software (Jira, Asana)",
   "HTML",
   "CSS",
-  "Design Thinking",
-  "Organizational Leadership",
-  "Project Lifecycle Management",
+  "Microsoft Office 365",
+  "G Suite",
 ];

@@ -11,6 +11,13 @@
 .main {
   background-color: #ddd2c5;
 }
+
+.nav-item:hover {
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2);
+}
+
 .about-header {
   line-height: 1.2 !important;
 }
@@ -29,7 +36,17 @@
 }
 
 .project-container {
+  margin-bottom: 3rem;
+}
+.project-container:last-child {
+  margin-bottom: 0;
+}
+.project-section {
   height: 21rem;
+}
+
+.project-title-link {
+  cursor: pointer;
 }
 
 .project-img {
