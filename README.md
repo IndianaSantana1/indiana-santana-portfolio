@@ -9,7 +9,7 @@ Visit at: [www.indianasantana.com](https://www.indianasantana.com)
 
 ## Built With
 
-- Reacts
+- React
 - Tailwind
 
 ## Site Components:
@@ -26,5 +26,5 @@ Visit at: [www.indianasantana.com](https://www.indianasantana.com)
 
 ## Author
 
-- GitHub - [@Fotinh0](https://github.com/fotinh0)
+- GitHub - [@Indiana-Santana](https://github.com/IndianaSantana1)
 - LinkedIn - [@Indiana-Santana](https://www.linkedin.com/in/foti-ceci/)
