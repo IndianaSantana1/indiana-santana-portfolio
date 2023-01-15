@@ -50,7 +50,7 @@ export const SauceAndSpoonProjects = [
 ];
 
 export const skills = [
-  "Google Project Management: Professional Certificate",
+  "Google Project Management Certificate",
   "Work Management Software (Jira, Asana)",
   "Agile Project Management",
   "Budgeting and Procurement",
