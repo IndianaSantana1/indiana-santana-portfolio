@@ -6,7 +6,7 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <p className="name-header">Indiana Santana</p>
-          <p className="position-header">Aspiring Project Manager</p>
+          <p className="position-header">Project Manager</p>
           <h1 className="about-header title-font sm:text-6xl text-3xl mb-12 font-medium text-black">
             Hi there!
             <br className="hidden lg:inline-block" />I am a creative and
